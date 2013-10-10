@@ -1,11 +1,7 @@
 var parser = /^((\S+)\s*-\s*(\S+))\s+([^:]+):([^)]+)$/,
     groups = {
-        'Vejleder': ['Morten','Gitte','Luise','Jesper','Jonathan','Mai','Kirsten','Ulrik','Mikkel','Uncas','Emil','Ida','Maria'],
-        'P-møde': ['Stald','Gitte','Margrethe','Jesper','Katrine','Mai','Jonathan','Kirsten','Kim','Mikkel','Asti','Emil','Ida','Maria'],
-        'Lejrliv': ['Stald','Margrethe','Jonathan','Ulrik','Uncas','Emil'],
-        'Mad': ['Morten','Luise','Katrine','Kim','Asti','Julie'],
-        'Køkken': ['Michael','Anne'],
-        'Alle': ['Vejleder','P-møde','Lejrliv','Mad','Køkken']
+        'KSL': ['Anders', 'Christian', 'Helene'],
+        'Alle': ['KSL']
     },
     colors = {
     	'24 timer': '#c30',
