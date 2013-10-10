@@ -121,7 +121,7 @@ function parseData(data) {
 }
 
 function parseTime(text) {
-    var tokens = text.split(':'),
+    var tokens = text.split('[:\.]'),
         hours = parseInt(tokens[0], 10),
         minutes = parseInt(tokens[1], 10),
         decimal = hours + minutes / 60;
