@@ -7,7 +7,7 @@
 11.00 - 11.30 Servere snacks: Helene
 11.30 - 13.00 Modulmarked: Alle
 13.00 - 13.30 Frokost med klanerne: Vejledere
-13.30 - 16.30 Fraværende
+13.30 - 16.30 Fraværende: Anders
 13.30 - 16.30 Forberede 24T: Andrea, Frederik, Emil, Christian
 13.30 - 16.30 Klanprojekter: Vejledere
 16.30 - 17.30 Madudlevering: Madhold
@@ -15,6 +15,6 @@
 17.00 - 18.00 Forberede fremvisning: Tor
 17.00 - 18.00 Klanprojekter: Vejledere
 18.00 - 19.00 Aftensmad: Alle
-19.00 - 20.00 Fremvisning af klanprojekter
+19.00 - 20.00 Fremvisning af klanprojekter: Alle
 20.00 - 22.00 Klanmøde: Vejledere
 22.00 - 23.00 Skypepost: Stine, Dus, Emil
