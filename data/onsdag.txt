@@ -1,14 +1,20 @@
-06:00 - 15:00	Fraværende: Ida
-07:00 - 19:30	Køkken: Køkken
-12:30 - 13:00	Frokost: Alle
-13:00 - 16:00	Værdier: Vejleder
-13:00 - 23:59	Fraværende: Maria
-16:00 - 17:00	P-café: Vejleder
-16:00 - 17:00	Madkasser: Julie, Kim
-17:00 - 18:00	Teamets time: Alle
-18:00 - 20:00	Natløbsforberedelse: Mikkel, Kirsten, Gitte, Morten
-18:00 - 20:00	Lejrliv: Lejrliv
-18:00 - 20:00	Madekspert: Mad
-18:30 - 19:30	Aftensmad: Alle
-19:30 - 20:00	Opvask: Luise, Jesper
-20:00 - 23:59	Natløb: Alle
+7.00 - 8.00 Madudlevering: Madhold
+8.00 - 9.00 Morgenmad og teammøde: Alle
+9.00 - 13.00 Indkøb: Madhold
+9.00 - 9.30 Morgensamling: Alle
+9.30 - 11.00 Modulmarked: Alle
+11.00 - 11.30 Stå for leg: Andrea
+11.00 - 11.30 Servere snacks: Helene
+11.30 - 13.00 Modulmarked: Alle
+13.00 - 13.30 Frokost med klanerne: Vejledere
+13.30 - 16.30 Fraværende
+13.30 - 16.30 Forberede 24T: Andrea, Frederik, Emil, Christian
+13.30 - 16.30 Klanprojekter: Vejledere
+16.30 - 17.30 Madudlevering: Madhold
+16.30 - 17.00 Teammøde: Alle
+17.00 - 18.00 Forberede fremvisning: Tor
+17.00 - 18.00 Klanprojekter: Vejledere
+18.00 - 19.00 Aftensmad: Alle
+19.00 - 20.00 Fremvisning af klanprojekter
+20.00 - 22.00 Klanmøde: Vejledere
+22.00 - 23.00 Skypepost: Stine, Dus, Emil
